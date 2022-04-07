@@ -1,0 +1,3 @@
+'alert_restaurant_out_from_campaign'=> 'You want your restaurant out from this campaign?',
+'alert_restaurant_join_campaign' => 'You want join this campaign?',
+'about_us' => 'About us',
